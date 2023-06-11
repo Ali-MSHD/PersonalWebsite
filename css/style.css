@@ -1053,5 +1053,52 @@ p {
 
 
 
+/* Projects */
+.page-service {
+    background-color: #343a40;
+    color: #9FA2AB;
+}
+
+.page-service .card {
+    margin: 32px 0;
+    background-color: #f8f9fa;
+	padding: 0;
+	
+}
+
+.page-service h2 {
+	
+	color:#f8f9fa;
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
+
+
+.page-service h4 {
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 6px;	
+	font-size: 18px;
+}
+
+
+.page-service img { 
+
+	width: 100%;
+
+}
+
+.page-service .card .btn-theme {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -24px;
+    margin: auto;
+    padding: 10px 24px;
+    width: 140px;
+    box-shadow: none;
+	background: #f5e663;
+	font-weight: bold;
+}
 
 
